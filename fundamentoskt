@@ -33,3 +33,399 @@ println("O MESSI JA GANHOU"  + messiGoldenBall + "vezes a bola de ouro. Ankara M
     
 println("O MESSI JA GANHOU $messiGoldenBall vezes a Bola de Ouro. Ankara Messi")    
 }
+//-----------------------------------------
+fun main() {
+    /*var classificado = "Real madri"
+
+if(classificado == "Real madrid"){
+      println("Real madrid classificado para a final, Hala madrid!!")    
+}else{                    
+      println("Barcelona classificado para a final, infelizmente")
+}
+}*///operadores Relacionais
+//
+//sao sinais que auxilian em comparacoes  ente valores
+//
+// = -> para definir valores
+// ==-> comparacao de igualdade
+// != -> diferenca 
+// > -> maior que...
+// < -> menor que ...
+//
+// Operadores matematicos
+// + -> adicao
+// - -> subtracao 
+// * -> multiplicacao
+// / -> divisao
+// % -> modulo - o resto de uma divisao
+// ++ -> adiciona 1 a um valor
+// -- -> subtrai 1 de um valor 
+//
+
+// condicoes
+// if..else -> se.. senao
+//
+// Estrutura do if..else simples 
+//
+// if(condicao){
+// acao a ser execultada
+//}
+/*
+//estruturs:
+//if(condicao)
+// if..else composto
+//acao
+// }
+*/
+var vidas = 5
+if(vidas >= 5){
+    println("Voce esta exelente!! que vida boa!")
+}else if (vidas == 4){    
+ 
+   println("Voce ta muito bem!! pode comer miojo :)")
+}else if(vidas == 3){
+   println("Voce esta ok, mas pode melhorar") 
+}else if(vidas == 2){    
+    println("Ta tudo bem ai??")
+}else if(vidas == 1){
+   println("Ce ta morrendo!! se cuida  cara")
+}else{
+   println("Voce nao existe")
+
+
+}
+/*
+//Exercio 1 - faça um programa que verifique dois numeros e indique
+//no console,o maior entre eles 
+//
+//Exercicio 2 - faça um programa que indique no console, se um numero
+//verificado é positivo ou negativo
+//
+// .Nos exercicios, devem ser ultilizadas pelo menos 1 variavel 
+// .Os exercicios devem ser feitos com if..else
+// .Divirtan-se
+*/
+var numermaior =10
+ if(numermaior >=10){
+     println(" o maior 10")
+ }else if(numermaior == 2 ){
+     println(" O menor 10")
+ }   
+var
+} 
+    fun main() {
+    /*var classificado = "Real madri"
+
+if(classificado == "Real madrid"){
+      println("Real madrid classificado para a final, Hala madrid!!")    
+}else{                    
+      println("Barcelona classificado para a final, infelizmente")
+}
+}*///operadores Relacionais
+//
+//sao sinais que auxilian em comparacoes  ente valores
+//
+// = -> para definir valores
+// ==-> comparacao de igualdade
+// != -> diferenca 
+// > -> maior que...
+// < -> menor que ...
+//
+// Operadores matematicos
+// + -> adicao
+// - -> subtracao 
+// * -> multiplicacao
+// / -> divisao
+// % -> modulo - o resto de uma divisao
+// ++ -> adiciona 1 a um valor
+// -- -> subtrai 1 de um valor 
+//
+
+// condicoes
+// if..else -> se.. senao
+//
+// Estrutura do if..else simples 
+//
+// if(condicao){
+// acao a ser execultada
+//}
+/*
+//estruturs:
+//if(condicao)
+// if..else composto
+//acao
+// }
+*/
+var vidas = 5
+if(vidas >= 5){
+    println("Voce esta exelente!! que vida boa!")
+}else if (vidas == 4){    
+ 
+   println("Voce ta muito bem!! pode comer miojo :)")
+}else if(vidas == 3){
+   println("Voce esta ok, mas pode melhorar") 
+}else if(vidas == 2){    
+    println("Ta tudo bem ai??")
+}else if(vidas == 1){
+   println("Ce ta morrendo!! se cuida  cara")
+}else{
+   println("Voce nao existe")
+
+
+}
+/*
+//Exercio 1 - faça um programa que verifique dois numeros e indique
+//no console,o maior entre eles 
+//
+//Exercicio 2 - faça um programa que indique no console, se um numero
+//verificado é positivo ou negativo
+//
+// .Nos exercicios, devem ser ultilizadas pelo menos 1 variavel 
+// .Os exercicios devem ser feitos com if..else
+// .Divirtan-se
+*/
+var numermaior =10
+ if(numermaior >=10){
+     println(" o maior 10")
+ }else if(numermaior == 2 ){
+     println(" O menor 10")
+ }   
+var
+} 
+    fun main() {
+    /*var classificado = "Real madri"
+
+if(classificado == "Real madrid"){
+      println("Real madrid classificado para a final, Hala madrid!!")    
+}else{                    
+      println("Barcelona classificado para a final, infelizmente")
+}
+}*///operadores Relacionais
+//
+//sao sinais que auxilian em comparacoes  ente valores
+//
+// = -> para definir valores
+// ==-> comparacao de igualdade
+// != -> diferenca 
+// > -> maior que...
+// < -> menor que ...
+//
+// Operadores matematicos
+// + -> adicao
+// - -> subtracao 
+// * -> multiplicacao
+// / -> divisao
+// % -> modulo - o resto de uma divisao
+// ++ -> adiciona 1 a um valor
+// -- -> subtrai 1 de um valor 
+//
+
+// condicoes
+// if..else -> se.. senao
+//
+// Estrutura do if..else simples 
+//
+// if(condicao){
+// acao a ser execultada
+//}
+/*
+//estruturs:
+//if(condicao)
+// if..else composto
+//acao
+// }
+*/
+var vidas = 5
+if(vidas >= 5){
+    println("Voce esta exelente!! que vida boa!")
+}else if (vidas == 4){    
+ 
+   println("Voce ta muito bem!! pode comer miojo :)")
+}else if(vidas == 3){
+   println("Voce esta ok, mas pode melhorar") 
+}else if(vidas == 2){    
+    println("Ta tudo bem ai??")
+}else if(vidas == 1){
+   println("Ce ta morrendo!! se cuida  cara")
+}else{
+   println("Voce nao existe")
+
+
+}
+/*
+//Exercio 1 - faça um programa que verifique dois numeros e indique
+//no console,o maior entre eles 
+//
+//Exercicio 2 - faça um programa que indique no console, se um numero
+//verificado é positivo ou negativo
+//
+// .Nos exercicios, devem ser ultilizadas pelo menos 1 variavel 
+// .Os exercicios devem ser feitos com if..else
+// .Divirtan-se
+*/
+var numermaior =10
+ if(numermaior >=10){
+     println(" o maior 10")
+ }else if(numermaior == 2 ){
+     println(" O menor 10")
+ }   
+var
+} 
+    fun main() {
+    /*var classificado = "Real madri"
+
+if(classificado == "Real madrid"){
+      println("Real madrid classificado para a final, Hala madrid!!")    
+}else{                    
+      println("Barcelona classificado para a final, infelizmente")
+}
+}*///operadores Relacionais
+//
+//sao sinais que auxilian em comparacoes  ente valores
+//
+// = -> para definir valores
+// ==-> comparacao de igualdade
+// != -> diferenca 
+// > -> maior que...
+// < -> menor que ...
+//
+// Operadores matematicos
+// + -> adicao
+// - -> subtracao 
+// * -> multiplicacao
+// / -> divisao
+// % -> modulo - o resto de uma divisao
+// ++ -> adiciona 1 a um valor
+// -- -> subtrai 1 de um valor 
+//
+
+// condicoes
+// if..else -> se.. senao
+//
+// Estrutura do if..else simples 
+//
+// if(condicao){
+// acao a ser execultada
+//}
+/*
+//estruturs:
+//if(condicao)
+// if..else composto
+//acao
+// }
+*/
+var vidas = 5
+if(vidas >= 5){
+    println("Voce esta exelente!! que vida boa!")
+}else if (vidas == 4){    
+ 
+   println("Voce ta muito bem!! pode comer miojo :)")
+}else if(vidas == 3){
+   println("Voce esta ok, mas pode melhorar") 
+}else if(vidas == 2){    
+    println("Ta tudo bem ai??")
+}else if(vidas == 1){
+   println("Ce ta morrendo!! se cuida  cara")
+}else{
+   println("Voce nao existe")
+
+
+}
+/*
+//Exercio 1 - faça um programa que verifique dois numeros e indique
+//no console,o maior entre eles 
+//
+//Exercicio 2 - faça um programa que indique no console, se um numero
+//verificado é positivo ou negativo
+//
+// .Nos exercicios, devem ser ultilizadas pelo menos 1 variavel 
+// .Os exercicios devem ser feitos com if..else
+// .Divirtan-se
+*/
+var numermaior =10
+ if(numermaior >=10){
+     println(" o maior 10")
+ }else if(numermaior == 2 ){
+     println(" O menor 10")
+ }   
+var
+} 
+    fun main() {
+    /*var classificado = "Real madri"
+
+if(classificado == "Real madrid"){
+      println("Real madrid classificado para a final, Hala madrid!!")    
+}else{                    
+      println("Barcelona classificado para a final, infelizmente")
+}
+}*///operadores Relacionais
+//
+//sao sinais que auxilian em comparacoes  ente valores
+//
+// = -> para definir valores
+// ==-> comparacao de igualdade
+// != -> diferenca 
+// > -> maior que...
+// < -> menor que ...
+//
+// Operadores matematicos
+// + -> adicao
+// - -> subtracao 
+// * -> multiplicacao
+// / -> divisao
+// % -> modulo - o resto de uma divisao
+// ++ -> adiciona 1 a um valor
+// -- -> subtrai 1 de um valor 
+//
+
+// condicoes
+// if..else -> se.. senao
+//
+// Estrutura do if..else simples 
+//
+// if(condicao){
+// acao a ser execultada
+//}
+/*
+//estruturs:
+//if(condicao)
+// if..else composto
+//acao
+// }
+*/
+var vidas = 5
+if(vidas >= 5){
+    println("Voce esta exelente!! que vida boa!")
+}else if (vidas == 4){    
+ 
+   println("Voce ta muito bem!! pode comer miojo :)")
+}else if(vidas == 3){
+   println("Voce esta ok, mas pode melhorar") 
+}else if(vidas == 2){    
+    println("Ta tudo bem ai??")
+}else if(vidas == 1){
+   println("Ce ta morrendo!! se cuida  cara")
+}else{
+   println("Voce nao existe")
+
+
+}
+/*
+//Exercio 1 - faça um programa que verifique dois numeros e indique
+//no console,o maior entre eles 
+//
+//Exercicio 2 - faça um programa que indique no console, se um numero
+//verificado é positivo ou negativo
+//
+// .Nos exercicios, devem ser ultilizadas pelo menos 1 variavel 
+// .Os exercicios devem ser feitos com if..else
+// .Divirtan-se
+*/
+var numermaior =10
+ if(numermaior >=10){
+     println(" o maior 10")
+ }else if(numermaior == 2 ){
+     println(" O menor 10")
+ }   
+var
+} 
