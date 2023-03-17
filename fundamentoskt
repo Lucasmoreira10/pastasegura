@@ -509,7 +509,65 @@ var minecraft =-1/verificado é positivo ou negativo
     //uma determinada ação é execultada, ateeeeé que não seja mais verdadeira
     var bolo = 500
     /*
+    ----------------------------------------------------------------
+    fun main() {
+    /*
+    var sorvete = 0
     
+    while(sorvete <= 10 ){
+        println(sorvete)
+        sorvete++ 
+    }
+    */
+    /*
+  var strogonoff = 0
+    
+    do{
+       println(strogonoff)
+       strogonoff++
+    }while(strogonoff > 10)
+    */
+    //exercicio ♥
+    //
+    // exiba a porcentagem da bateria descarregando a cada linha no console
+    // quando a bateria chegar a 15%, deve ser exibida a porcentagem e também
+    // o aviso de bateria descarregada,
+    // quando a bateria chegar a 0%, deve ser exibida a porcentagem também
+    // o aviso de celular desligando usando while ou do..while.
+    /*
+  var bateria = 100
+    
+    while(bateria >= 0){
+        println("${bateria}%")
+        
+        when(bateria){
+            15 -> {println("celular descarregando, faça algo!")}
+            0 -> {println("celular desligando dando tchauzinho ☺")}
+        }
+        
+        bateria--
+    }
+    */
+    /*
+    // for - para...
+    
+    for(churrasco in 0..10){
+       println(churrasco) 
+    }
+    */
+    
+   //exercicio - exibir a tabuada pelo menos até o décimo multiplo de um numero escolhido
+   // (que não seja a do 0 do 01 e do 2), ultilizando o laço for
+   
+    for(tabuada in 0..10){
+        
+      
+        
+    }
+    
+ 
+    }
+
     while(bolo <= 520){
         println(bolo)
         bolo++
